@@ -1,0 +1,60 @@
+@charset "UTF-8";
+html,
+html * {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+
+
+
+
+header{
+	width: 100%;
+	top: 0px;
+	padding: 1.5em;
+	position: fixed;
+	background-color: steelblue;
+	text-align: left;
+	font-family:carbon;
+}
+
+h1 {
+	color: white;
+	text-transform: uppercase;
+	font-size: 8em;
+	letter-spacing: normal;
+	background-color: steelblue;
+	padding-top: 1em;
+	text-align: center
+}
+
+h3{
+	background-color:steelblue;
+	text-align: center;
+	color: white;
+	font-size: 3em	
+}
+h2 {
+	text-align: center;
+	color: steelblue
+}
+
+h4 {
+	color:steelblue;
+	text-align: center;
+p {
+	background-color:white;
+	padding: 1em 1em 1em 1em;
+	color: black
+}
+
+
+.Coffee-discp{
+	padding: 12em 6em 12em 6em;
+}
+
+.site-nav {
+ 
+}
